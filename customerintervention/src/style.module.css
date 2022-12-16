@@ -1,0 +1,33 @@
+.body{
+    margin: 0;
+}
+
+.header{
+    background-color: #002AFF;
+    height: 60px;
+    font-size: 50px;
+    color: white;
+    padding: 20px;
+    font-family: sans-serif;
+}
+.loginform{
+    margin: auto;
+    margin-top: 20px;
+}
+
+.loginforminput{
+    font-size: 20px;
+    height: 30px;
+    margin: 5px;
+    
+}
+
+.loginformbutton{
+    
+    height: 30px;
+    background-color: #FF0000;
+    margin: 5px;
+    font-size: 15px;
+    font-weight: 700;
+    color: white;
+}
