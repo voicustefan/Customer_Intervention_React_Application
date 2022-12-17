@@ -2,6 +2,15 @@
     margin: 0;
 }
 
+.changebutton{
+    margin-top: 20px;
+    height: 30px;
+    font-size: 15px;
+    font-weight: 700;
+    background-color: aquamarine;
+    color: purple;
+    border: none;
+}
 .header{
     background-color: #002AFF;
     height: 60px;
